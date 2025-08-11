@@ -1,0 +1,11 @@
+OrderID,ItemName,Weight,Fragile,LocationX,LocationY
+1,Laptop,2.5,Yes,5,8
+2,Office Chair,12.0,No,2,3
+3,Glass Vase,1.2,Yes,9,6
+4,Printer,8.0,No,7,2
+5,Table Lamp,3.1,Yes,1,9
+6,Steel Shelf,25.0,No,10,10
+7,Microwave Oven,9.0,No,4,7
+8,Ceramic Plate Set,4.2,Yes,8,1
+9,Drone Kit,2.3,Yes,6,5
+10,Books Box,15.0,No,3,4

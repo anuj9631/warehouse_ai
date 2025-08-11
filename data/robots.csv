@@ -1,0 +1,6 @@
+RobotID,Speed(m/s),LoadCapacity(kg),CurrentX,CurrentY,Battery(%)
+R1,1.2,10,0,0,85
+R2,1.5,8,3,3,75
+R3,1.0,15,5,5,90
+R4,1.8,5,8,2,60
+R5,1.4,20,2,8,95
