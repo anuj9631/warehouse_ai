@@ -1,8 +1,6 @@
 numpy
 pandas
-matplotlib
 scikit-learn
 joblib
-chromadb
-langchain
 streamlit
+matplotlib

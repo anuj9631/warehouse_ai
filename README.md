@@ -1,9 +1,8 @@
-warehouse_ai - Autonomous Warehouse Robot Fleet (starter)
+# warehouse_ai
 
-How to run:
-
-1. create and activate conda env (see README above)
-2. pip install -r requirements.txt
-3. python src/ml_model.py
-4. python src/simulation.py
-5. (optional) streamlit run ui/streamlit_app.py
+1. Create & activate your Python environment.
+2. Install requirements: `pip install -r requirements.txt`
+3. Put your `orders.csv` and `robots.csv` into `data/`.
+4. Train model: `python train_model.py` (or Streamlit will auto-train).
+5. Run UI: `streamlit run ui/streamlit_app.py`
+6. To run simulation: open UI → "Simulate" → "Start Simulation"

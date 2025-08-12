@@ -1,7 +1,6 @@
 __pycache__/
 *.pyc
-.env
-.vscode/
 models/
-*.log
+*.pkl
 .DS_Store
+.env
